@@ -1,0 +1,1 @@
+lessons learned commented with "nugget:" for easy searching.
